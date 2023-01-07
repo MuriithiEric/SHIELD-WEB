@@ -523,7 +523,7 @@ span.shoping-count {
 /*end of services area*/
 
 .avacus-count-down-section {
-  background-image: url(img/countbg.jpg);
+  /* background-image: url(img/countbg.jpg); */
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-background-size: cover;
