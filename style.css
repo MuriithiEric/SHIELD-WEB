@@ -3988,7 +3988,24 @@ a.button-tow {
   margin-left: 10px;
   transition: 0.4s;
 }
-
+a.button-tow-one {
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  background: #fde428;
+  line-height: 40px;
+  color: #003445;
+  font-weight: 300;
+  font-size: 15px;
+  margin-left: 10px;
+  transition: 0.4s;
+  border-radius: 8px;
+}
+a.button-tow-one:hover {
+  background: #003445;
+  color: #fff;
+}
 a.button-tow:hover {
   background: #003445;
   color: #fff;
